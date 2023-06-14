@@ -4,8 +4,6 @@
 
 - 🔭 I’m currently working on **Bus Tracking Webpage**
 
-- 🌱 I’m currently learning **JavaScript**
-
 - 👯 I’m looking to collaborate on **Bus Tracking Webpage**
 
 - 👨‍💻 All of my projects are available at [https://mdwaseel.github.io/](https://mdwaseel.github.io/)
